@@ -1,6 +1,8 @@
 # flask-api
 flask api practice
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanbbear)](https://github.com/anuraghazra/github-readme-stats)
+
 # Input :
 ```json
 {
